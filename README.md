@@ -1,5 +1,7 @@
 # Two Houses: A Field Report on Cross-Box Inference for a Persistent Agent
 
+> **This is a field report, not software.** There is no code in this repository. It is a written record of measurements, and the negative results are the point.
+
 *Measured 2026-09-07. All numbers from live runs, not estimates. Negative results included — they're the expensive part.*
 
 ## The premise
